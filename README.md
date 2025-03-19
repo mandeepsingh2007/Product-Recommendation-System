@@ -49,18 +49,27 @@ The **Ayurvedic Product Recommendation System** analyzes vital health parameters
 - **Recall:** `1.00`
 - **F1-Score:** `1.00`
 
-🏆 **Perfect Performance!** The model accurately recommends the most relevant Ayurvedic products based on extracted health data.
+🏆 **Perfect Performance!** The model accurately recommends the most relevant Ayurvedic products based on extracted health data becuase dataset is small in future i will add more products in my dataset.
 
 ---
 
 
-📝 Configuration
+## 📝 Configuration
 
 
-Place the health report PDF in the specified directory.
+- **Place the health report PDF in the specified directory.** 
 
 
-Update the pdf_path variable in the script with your PDF file path.
+- **Update the pdf_path variable in the script with your PDF file path.** 
+---
 
+
+## 🤖 Future Improvements
+
+
+- **Build a hybrid recommendation system combining content-based and collaborative filtering.** 
+
+
+- **Add a feedback loop for user-based fine-tuning.** 
 
 
